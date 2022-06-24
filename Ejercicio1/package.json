@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "this is the first exercise of JavaScript with Node in Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aixmarina/JavaScript-OB.git"
+  },
+  "author": "MarinaAix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aixmarina/JavaScript-OB/issues"
+  },
+  "homepage": "https://github.com/aixmarina/JavaScript-OB#readme"
+}
