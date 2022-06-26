@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio3",
+  "version": "1.0.0",
+  "description": "exercise 3 of JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aixmarina/JavaScript-OB.git"
+  },
+  "author": "Marina Aix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aixmarina/JavaScript-OB/issues"
+  },
+  "homepage": "https://github.com/aixmarina/JavaScript-OB#readme"
+}
